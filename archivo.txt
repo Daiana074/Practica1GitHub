@@ -1,7 +1,7 @@
-Daiana Camacho
-Es otra prueba que estoy haciendo!
-tercera prueba para memorizar
-cuarta prueba!!!!!
+git add <direccion de lo que se va a cargar o modificar>
+git commit -m "mensaje para que salga en github"
+git push origin master //rama que actualizaremos
+git status //para saber el estado de la rama
 
 
 
